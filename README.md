@@ -29,11 +29,5 @@ bash
 Copy code
 python3 main.py books/frankenstein.txt
 
-## 🛠️ Installation & Usage  
-bookbot/
-│── books/                # Book text files (ignored in Git)
-│── main.py               # Entry point
-│── stats.py              # Functions for analysis
-│── README.md             # Documentation
-│── .gitignore            # Ignore books folder
+
 
