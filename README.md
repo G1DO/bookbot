@@ -28,20 +28,8 @@ Run BookBot with a book file:
 bash
 Copy code
 python3 main.py books/frankenstein.txt
-Example output:
 
-diff
-Copy code
-============ BOOKBOT ============
-Analyzing book found at books/frankenstein.txt...
------------ Word Count ----------
-Found 75767 total words
--------- Character Count --------
-e: 44538
-t: 29493
-a: 25894
-...
-============= END ===============
+
 📂 Project Structure
 bash
 Copy code
